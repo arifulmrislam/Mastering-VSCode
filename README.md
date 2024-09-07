@@ -9,3 +9,7 @@
 - Extensions for API Testing
 - Extensions for Themes
 - Extensions for React.js, Data Modelling and Git
+
+#### 🎓 Certificate
+
+![]([https://udemy-certificate.s3.amazonaws.com/image/UC-a1144278-fed6-4c08-b13a-0e586af5fae7.jpg](https://github.com/arifulmrislam/Mastering-VSCode/blob/main/image/UC.jpg))
