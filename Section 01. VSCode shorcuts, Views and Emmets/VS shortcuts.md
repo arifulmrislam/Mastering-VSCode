@@ -2,15 +2,8 @@
 
 ## 1. Minimize Breadcrumbs:
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- Using the Command Palette:
 ```
-
-### Using the Command Palette:
-
 Press `Ctrl + Shift + P`(or `Cmd + Shift + P` on Mac) to open the Command Palette.
 Type "Toggle Breadcrumbs" and select it. This will hide or show the breadcrumbs.
 
