@@ -1,6 +1,7 @@
 # 1. Breadcrumb, minimap, zen mode
 
 ## 1. Minimize Breadcrumbs:
+<span style="color: #FF69B4;">This text will be pink</span>
 
 ### Using the Command Palette:
 
