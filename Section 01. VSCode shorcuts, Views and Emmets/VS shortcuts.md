@@ -75,6 +75,6 @@ Abbreviation: h2.item$*3
 ```diff
 - Table Structure
   ```
-table>tr*3>td*2
+Abbreviation: table>tr*3>td*2
 
 
