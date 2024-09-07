@@ -1,9 +1,9 @@
 # 1. Breadcrumb, minimap, zen mode
 
 ## 1. Minimize Breadcrumbs:
-```diff
+
 - Using the Command Palette:
-```
+  
 Press `Ctrl + Shift + P`(or `Cmd + Shift + P` on Mac) to open the Command Palette.
 Type "Toggle Breadcrumbs" and select it. This will hide or show the breadcrumbs.
 
