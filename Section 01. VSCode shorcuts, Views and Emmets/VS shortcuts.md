@@ -51,6 +51,7 @@ Mac: Press Cmd + K then Z.
 Press Escape twice to exit Zen Mode.
 
 # 2. HTML Emmet Abbreviations
+
 ```diff
 - Creating Nested Elements
   ```
@@ -64,10 +65,13 @@ Abbreviation: div#container.main
 ```diff
 ! Adding Text Content
   ```
+Abbreviation: h1{Welcome to Emmet}
+
 ```diff
 - Creating Multiple Items with Numbering
   ```
 Abbreviation: h2.item$*3
+
 ```diff
 - Table Structure
   ```
