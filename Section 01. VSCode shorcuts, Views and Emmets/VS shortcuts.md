@@ -39,4 +39,15 @@ Look for the option "Editor: Minimap Enabled" and uncheck it to disable the mini
   ```
 You can also directly edit your settings file by going to File > Preferences > Settings and clicking the {} icon in the top right corner to open the settings in JSON format.
 
+## 1. Zen Mode:
+```diff
+! Using Keyboard Shortcut:
+  ```
+Windows/Linux: Press Ctrl + K then Z.
+Mac: Press Cmd + K then Z.
+```diff
+- Exiting Zen Mode:
+  ```
+Press Escape twice to exit Zen Mode.
+
 
